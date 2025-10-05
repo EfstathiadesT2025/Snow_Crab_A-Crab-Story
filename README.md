@@ -15,6 +15,11 @@ The data was collected from NOAA (National Oceanic and Atmospheric Administratio
 It contains catch per unit effort data of commercial snow crab landings in the Alaskan Eastern Bering Sea.
 The catch per unit effort is an indirect measure of the abundance of a target species.
 
+2 data sets were merged:
+
+- NMFS_Reporting_Areas.geojson
+- Original Snow Crab.csv
+
 # Tools
 
 For this project, the following python libraries were used:
@@ -38,6 +43,6 @@ For this project, the following python libraries were used:
 - statsmodels.api as sm
 - warnings
 
-# Execute Python Code
+# Executing the Code
 
-
+The code is available as jupyter notebooks, [open script folder with this link](link https://onedrive.live.com/?id=%2Fpersonal%2F68518651159bb850%2FDocuments%2FDokumente%2Fdata%20analytics%2FImm%5FAch%206%20DA%20Project%206%2FSnow%20Crab%20Ach%206&view=0)
