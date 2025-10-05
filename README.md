@@ -15,4 +15,29 @@ The data was collected from NOAA (National Oceanic and Atmospheric Administratio
 It contains catch per unit effort data of commercial snow crab landings in the Alaskan Eastern Bering Sea.
 The catch per unit effort is an indirect measure of the abundance of a target species.
 
-#
+# Tools
+
+For this project, the following python libraries were used:
+
+- pandas as pd
+- numpy as np
+- os
+- matplotlib
+- matplotlib.pyplot as plt
+- seaborn as sns
+- scipy
+- folium
+- json
+- sklearn
+- from sklearn.model_selection import train_test_split 
+- from sklearn.linear_model import LinearRegression
+- from sklearn.metrics import mean_squared_error, r2_score
+- sklearn.cluster import KMeans
+- from sklearn.preprocessing import StandardScaler
+- pylab as pl
+- statsmodels.api as sm
+- warnings
+
+# Execute Python Code
+
+
