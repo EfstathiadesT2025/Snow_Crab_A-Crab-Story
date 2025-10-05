@@ -48,3 +48,7 @@ For this project, the following python libraries were used:
 # Executing the Code
 
 The code is available as jupyter notebooks, [Open Scripts Folder on OneDrive](https://onedrive.live.com/?id=%2Fpersonal%2F68518651159bb850%2FDocuments%2FDokumente%2Fdata%20analytics%2FImm%5FAch%206%20DA%20Project%206%2FSnow%20Crab%20Ach%206&view=0)
+
+# Final Presentation on Tableau
+
+For the final presentation on Tableau follow this [Link](https://public.tableau.com/app/profile/thomas.efstathiades/viz/ACrabStory/ACrabStory)
