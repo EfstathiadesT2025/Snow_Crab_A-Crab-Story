@@ -1,7 +1,7 @@
 # A Crab Story
 
 The abundance of snow crab in the Alaskan Eastern Bering Sea, its geographical distribution
-and changes over the years (1975 - 2028) may be useful to monitor for goverment and environmental organizations.
+and changes over the years (1975 - 2028) may be useful to monitor for the goverment and environmental organizations.
 
 # Objective
 
